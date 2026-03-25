@@ -149,7 +149,7 @@ net user backdooruser Password123! /add
 net localgroup Administrators backdooruser /add
 ```
 
-Wait 5-10 minutes then check:
+Wait 5-10 minutes, then check:
 ```
 Sentinel → Incidents
 ```
@@ -175,7 +175,7 @@ Each runbook covers: Preparation, Detection & Analysis, Containment, Eradication
 This lab is designed to run on an Azure free trial ($200 credit). Key cost controls:
 - VM auto-shutdown configured at 11 PM UTC
 - Log Analytics on Pay-as-you-go tier
-- Sentinel free for first 31 days on new workspace
+- Sentinel is free for the first 31 days on a new workspace
 - Stop/deallocate VM when not in use to avoid charges
 
 ---
@@ -195,14 +195,6 @@ This lab is designed to run on an Azure free trial ($200 credit). Key cost contr
 - Data Collection Rules (DCR) configuration
 - Azure Monitor Agent deployment
 - Infrastructure tagging and governance
-
----
-
-## Certifications
-
-- CompTIA Security+
-- Microsoft Azure Fundamentals (AZ-900)
-- Currently studying: AZ-104 Microsoft Azure Administrator
 
 ---
 
