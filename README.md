@@ -2,6 +2,9 @@
 
 A cloud-native SIEM lab built from scratch on Microsoft Azure using CLI scripts. This project covers threat detection engineering, custom KQL analytics rules mapped to MITRE ATT&CK, live attack simulation, and NIST SP 800-61 aligned incident response runbooks.
 
+## Demo
+[Watch the full project walkthrough](https://www.loom.com/share/255976d5087240e798541715663b3a5b)
+
 ---
 
 ## Project Overview
